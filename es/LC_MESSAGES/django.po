@@ -140,4 +140,4 @@ msgstr "Esperando al otro participante."
 
 #: .\views\participant.py:292
 msgid "Waiting for your session to begin"
-msgstr ""
+msgstr "Esperando a que comience la sesión"
