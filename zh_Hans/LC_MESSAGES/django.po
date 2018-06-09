@@ -85,16 +85,16 @@ msgstr "请修复表单中的错误。"
 
 #: .\templates\otree\RoomInputLabel.html:7
 msgid "Welcome"
-msgstr ""
+msgstr "欢迎！"
 
 #. Translators: If the user enters an invalid participant label
 #: .\templates\otree\RoomInputLabel.html:13
 msgid "Invalid entry; try again."
-msgstr ""
+msgstr "无效输入，请重试。"
 
 #: .\templates\otree\RoomInputLabel.html:15
 msgid "Please enter your participant label."
-msgstr ""
+msgstr "请输入你的参与标签。"
 
 #: .\templates\otree\WaitPage.html:49
 msgid ""
