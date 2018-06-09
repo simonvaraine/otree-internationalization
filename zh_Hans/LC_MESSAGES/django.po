@@ -63,11 +63,11 @@ msgstr "否"
 
 #: .\forms\forms.py:238
 msgid "Value must be greater than or equal to {}."
-msgstr "该值必須大於或等於{}。"
+msgstr "该值必须大于或等于{}。"
 
 #: .\forms\forms.py:244
 msgid "Value must be less than or equal to {}."
-msgstr "该值必須小於或等於{}。"
+msgstr "该值必须小于或等于{}。"
 
 #. Translators: the label next to a "points" input field
 #: .\forms\widgets.py:43
